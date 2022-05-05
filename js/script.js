@@ -7,7 +7,11 @@ const app = new Vue(
     {
         el: '#root',
         data: {
-            message: 'hello world!',
+            message: 'Benvenuto, cerca qui lo sfondo che fa per te!',
+            image: 'https://unsplash.it/500/500?'
         }
-    }
-)
+     
+    })
+
+
+    

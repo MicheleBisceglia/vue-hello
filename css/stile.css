@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-image: url('https://unsplash.it/500/500?');
+    font-family: 'Playfair Display', serif;   
+}
+
+#title {
+    color: black;
+    background-color: white;
+    max-width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.newImg {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+}
+
+.cntrImg{
+    margin-top: 20px;
+    height: 450px;
+    width: 450px;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+
+.cntrImg:hover {
+    height: 500px;
+    width: 500px;
+}
+
+
